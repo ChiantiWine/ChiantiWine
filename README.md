@@ -1,5 +1,5 @@
 ## Hi there 👋
-![C# Logo](URL_TO_YOUR_CSHARP_LOGO)
+
 
 <!--
 **ChiantiWine/ChiantiWine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
